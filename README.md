@@ -1,57 +1,50 @@
-#  Sales Representative Net Promoter Score Analysis
+# Sales Representative Net Promoter Score Analysis
 
 ## Project Summary
 
-[Provide a brief summary of your project, highlighting its main objectives and outcomes. Mention any unique or notable aspects of the project.]
-
-## Overview
-
-The [Project Title] project is a data analysis initiative that focuses on [describe the specific area or topic of analysis]. Through the utilization of various data analysis techniques and tools, the project aims to [explain the purpose and goals of the analysis].
+The Sales Representative Net Promoter Score Analysis project aims to identify the key drivers of a high Net Promoter Score (NPS) among college-educated employees in the software product group. The goal is to create a classification model that can effectively predict whether a sales representative will receive an NPS score of 9 or higher. The analysis explores the impact of various factors such as demographics, qualifications, salary, feedback, and certifications on NPS scores. The findings provide insights to help businesses optimize customer satisfaction and loyalty.
 
 ## Project Findings
 
-After conducting a comprehensive analysis of the data, the project revealed the following key findings:
+The analysis reveals several key findings:
 
-- [Summarize the significant insights or discoveries obtained through the analysis. Highlight the most important findings.]
+- Personality traits, specifically "diplomat" and "explorer," have a higher likelihood of achieving an NPS score greater than 9, while "analyst" and "sentinel" personality types have a lower chance.
+- Experienced sales representatives tend to have higher NPS scores compared to entry-level and mid-level counterparts.
+- Sales representatives with higher salaries and more certifications have higher NPS scores, indicating the importance of experience, expertise, and motivation.
+- Feedback plays a significant role, with sales representatives receiving excellent positive feedback having a higher chance of achieving NPS scores greater than 9.
 
 ## Recommendations
 
-Based on the project findings, the following recommendations are suggested:
+Based on the analysis, the following recommendations are made to improve NPS scores among technical sales representatives:
 
-- [Provide actionable recommendations or suggestions based on the insights gained from the analysis. Discuss how these recommendations can be implemented or utilized.]
+1. Identify and recruit sales representatives with personality traits that align with different sales roles, giving preference to those with "diplomat" and "explorer" traits.
+2. Offer competitive salaries to sales representatives to keep them motivated and improve job satisfaction and motivation, leading to higher NPS scores.
+3. Invest in the training and development of sales representatives, particularly in improving their skills and knowledge to enhance their performance.
+4. Prioritize representatives with excellent positive feedback, as they are more likely to achieve NPS scores greater than 9.
+5. Encourage sales representatives to obtain certifications, as it increases their credibility and perceived expertise, resulting in higher customer trust and loyalty.
 
-## Files in the Repository
+Implementing these recommendations can lead to higher NPS scores, ultimately improving customer satisfaction, increasing sales, and driving overall business success.
 
-This repository contains the following files:
+## Files in the Repo
 
-- **Advanced_Model_Stacking - (Selected model).R**: [Briefly describe the purpose or content of the file]
-- **Advanced model (stacking)**: [Briefly describe the purpose or content of the file]
-- **Executive Summary (Sales).pdf**: [Briefly describe the purpose or content of the file]
-- **Report**: [Briefly describe the purpose or content of the file]
-- **Logistic_Regression_Model(Sales).R**: [Briefly describe the purpose or content of the file]
-- **Other models (DT + NB) (Sales).zip**: [Briefly describe the purpose or content of the file]
-- **README.md**: [Briefly describe the purpose or content of the file]
-- **Sales Dashboard PDF.pdf**: [Briefly describe the purpose or content of the file]
-- **Sales Data Analysis.xlsx**: [Briefly describe the purpose or content of the file]
-- **Sales_Dashboard.twb**: [Briefly describe the purpose or content of the file]
+- `README.md`: Provides an overview of the project, its findings, recommendations, and other relevant information.
+- `data_analysis.R`: R script containing the data analysis and model building process.
+- `data.csv`: Dataset used for the analysis.
+- `Sales Dashboard PDF.pdf`: Tableau Dashboard showcasing the sales analysis results.
+- `Sales Data Analysis.xlsx`: Excel file containing pivot tables for additional data analysis.
 
-## Technologies
+## Technologies Used
 
-The project utilized the following technologies:
+The project utilizes the following technologies and tools:
 
-- R
-- Tableau
-- Python
-- Excel
-- JMP
+- R: Programming language used for statistical analysis and model building.
+- Python: Programming language used for data manipulation and analysis.
+- Tableau: Data visualization tool used to create interactive dashboards and reports.
+- Excel: Spreadsheet software used for additional data analysis and pivot tables.
 
-## Contributing
+Please refer to the `data_analysis.R` script, `Sales Dashboard PDF.pdf`, and `Sales Data Analysis.xlsx` for detailed analysis and visualizations.
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
-
-## License
-
-[Choose an appropriate license for your project or mention if it's proprietary]
+For any further information, please contact me at jj5603@rit.edu.
 
 ![git1](https://github.com/johnmelwin/SalesNPSAnalysis/assets/42464701/e1f0ed4e-6a8b-4b69-8614-7054d066919d)
 
