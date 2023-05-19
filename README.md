@@ -1,17 +1,4 @@
-# Project Title
-
-[Project Title] - README
-
-## Table of Contents
-
-- [Project Summary](#project-summary)
-- [Overview](#overview)
-- [Project Findings](#project-findings)
-- [Recommendations](#recommendations)
-- [Files in the Repository](#files-in-the-repository)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+#  Sales Representative Net Promoter Score Analysis
 
 ## Project Summary
 
